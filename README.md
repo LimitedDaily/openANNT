@@ -1,2 +1,2 @@
 # openANNT
-Open Source Annotation Tool
+Open Source Annotation Tool (Now Developing.. :sunglasses:)
